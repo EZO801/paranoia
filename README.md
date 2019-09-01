@@ -5,6 +5,8 @@
 Paranoia will continue to accept bug fixes and support new versions of Rails but isn't accepting new features.
 
 # Paranoia
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fparanoia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fparanoia?ref=badge_shield)
+
 
 Paranoia is a re-implementation of [acts\_as\_paranoid](http://github.com/ActsAsParanoid/acts_as_paranoid) for Rails 3/4/5, using much, much, much less code.
 
@@ -372,3 +374,6 @@ You can use these events just like regular Rails callbacks with before, after an
 ## License
 
 This gem is released under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fparanoia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fparanoia?ref=badge_large)
